@@ -1,6 +1,6 @@
-baseURL: http://something-fresh.org/
+baseURL: https://motapi.com/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Motapi, NLP API
 theme: hugo-fresh
 
 params:
@@ -13,13 +13,13 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Manage. Deploy.
+    title: Build your own NLP pipelines... Or let us do it
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: Language detection,readability analysis, summarization...
     # Button text
-    buttontext: Get started
+    buttontext: Try our API for free
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "/try/"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
